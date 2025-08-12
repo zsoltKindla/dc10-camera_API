@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2025-08-12T00:00:00Z",
+  "frames": [
+    {
+      "id": "frame1",
+      "name": "Frame 1",
+      "url": "https://raw.githubusercontent.com/zsoltKindla/dc10-camera_API/main/frames/frame1.png",
+      "aspectRatio": "camera",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "id": "frame2",
+      "name": "Frame 2",
+      "url": "https://raw.githubusercontent.com/zsoltKindla/dc10-camera_API/main/frames/frame2.png",
+      "aspectRatio": "camera",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "id": "frame3",
+      "name": "Frame 3",
+      "url": "https://raw.githubusercontent.com/zsoltKindla/dc10-camera_API/main/frames/frame3.png",
+      "aspectRatio": "camera",
+      "width": 0,
+      "height": 0
+    }
+  ]
+}
